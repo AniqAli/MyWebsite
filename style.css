@@ -1,0 +1,126 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar{
+    background-color: #0336FF !important;
+}
+.nav-link{
+    color: white !important;
+}
+.btn{
+    color: white;
+    border: 1px solid white;
+}
+.fa-user-circle-o{
+    font-size: 35px !important;
+    color: white;
+    margin-top: 10px;
+}
+.fa-handshake-o{
+    font-size: 42px !important;
+    color: #ffde03;
+    margin-right: 12px;
+}
+.fa-truck{
+    font-size: 42px !important;
+    color: #ffde03;
+    margin-right: 12px;
+}
+.fa-heart{
+    font-size: 42px !important;
+    color: #ffde03;
+    margin-right: 12px;
+}
+.contain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+.card1, .card2, .card3{
+    display: flex;
+    justify-content: center;
+    color: #0336FF;
+    box-shadow: 5px 5px 5px lightgrey;
+    width: 320px;
+    align-items: center;
+    padding: 25px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.contain1{
+    margin-top: 100px;
+}
+.box1 :hover{
+    box-shadow: 3px 3px 3px lightgrey;
+}
+.contain3{
+    background-color: #0336FF;
+    color: white;
+    margin-top: 100px;
+}
+.fa-facebook{
+    color: darkblue;
+    padding: 3px;
+}
+.fa-twitter{
+    color: cornflowerblue;
+    padding: 3px;
+}
+.fa-instagram{
+    color: crimson;
+    padding: 3px;
+}
+.fa-youtube-play{
+    color: red;
+    padding: 3px;
+}
+.box2{
+    margin-top: 65px;
+}
+.contain4{
+    margin-top: 100px;
+}
+.contain5{
+    margin-top: 100px;
+}
+.contain6{
+    margin-top: 90px;
+}
+.box3 :hover{
+    box-shadow: 4px 4px 4px lightgray;
+}
+.mainbox{
+    box-shadow: 3px 3px 3px lightgrey;
+    width: 50%;
+    margin-top: 50px;
+}
+.mainbox1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 30px;   
+}
+.sign1{
+    box-shadow: 2px 2px 2px gray;
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 8px;
+}
+.fa-google-plus{
+    margin-left: 18px;
+    margin-top: 4px;
+    color: red;
+}
+.fa-facebook-official{
+    margin-left:17px;
+    margin-top: 4px;
+}
+.fa-linkedin-square{
+    margin-left: 20px;
+    margin-top: 3px;
+}
